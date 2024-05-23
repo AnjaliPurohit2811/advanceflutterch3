@@ -1,16 +1,18 @@
 # advanceflutterch3
 
-A new Flutter project.
+## Connectivity Plus Package
 
-## Getting Started
+The `connectivity_plus` package is a tool for Flutter developers that enhances connectivity management in mobile apps. It provides features to monitor network changes, check connectivity status, and handle various network scenarios, enabling more robust and responsive applications.
 
-This project is a starting point for a Flutter application.
+### Installation
 
-A few resources to get you started if this is your first Flutter project:
+To use `connectivity_plus` in your Flutter project, add it to your `pubspec.yaml` file:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```yaml
+dependencies:
+  flutter:
+    sdk: flutter
+  connectivity_plus: ^0.0.1
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/AnjaliPurohit2811/advanceflutterch3/assets/143180602/27113744-0018-42df-bed9-08a477e2a90d">
+
